@@ -8,3 +8,9 @@
 * 對SQL語句進行分析、切片、格式操作
 
 
+###Writing Idiomatic Python
+Writen by [Jeff Knupp](https://jeffknupp.com/).
+This book aims to show novice and intermediate Python programmers how to write readable, maintainable, and testable code.
+
+
+
