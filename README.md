@@ -12,12 +12,10 @@
 inotify是一个事件驱动型的通知器.它通过三个系统调用将通知从内核空间调入用户空间.pyinotify结合这些系统调用,提供一个抽象和通用的方式来处理这些功能.
 
 
-
 ###Writing Idiomatic Python
 Writen by [Jeff Knupp](https://jeffknupp.com/).
 This book aims to show novice and intermediate Python programmers how to write readable, maintainable, and testable code.
 
-
-
+##dateutil
 
 
