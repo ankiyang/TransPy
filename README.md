@@ -13,8 +13,10 @@ inotify是一个事件驱动型的通知器.它通过三个系统调用将通知
 
 
 ###Writing Idiomatic Python
-Writen by [Jeff Knupp](https://jeffknupp.com/).
+Writen by [Jeff Knupp](https://jeffknupp.com/)
+
 pdf下载地址: [请点我](https://pan.baidu.com/s/1mifOU1M) 
+
 This book aims to show novice and intermediate Python programmers how to write readable, maintainable, and testable code.
 
 ##dateutil
