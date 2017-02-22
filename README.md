@@ -19,6 +19,5 @@ pdf下载地址: [请点我](https://pan.baidu.com/s/1mifOU1M)
 
 This book aims to show novice and intermediate Python programmers how to write readable, maintainable, and testable code.
 
-##dateutil
 
 
